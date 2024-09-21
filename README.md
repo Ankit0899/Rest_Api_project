@@ -1,4 +1,4 @@
-# Flask Application with MySQL
+**Flask Application with MySQL**
 
 This is a simple Flask web application that connects to a MySQL database and demonstrates basic routing.
 
